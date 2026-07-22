@@ -1,6 +1,6 @@
 # Привет! 👋 Я Шарипов Амир
 
-### 🎮 Unity Developer | WebGL & Яндекс Игры
+### 🎮 Unity Developer 
 
 ---
 
@@ -60,4 +60,3 @@ Unity-разработчик с 2-летним опытом создания и 
 - 📧 **Email**: [sharipovamir2003@gmail.com](mailto:sharipovamir2003@gmail.com)
 - 📱 **Телефон**: [+7 903 313-38-85](tel:+79033133885)
 - ✈️ **Telegram**: [@sbwtshrek](https://t.me/sbwtshrek)
-- 💼 **GitHub**: [github.com/your-username](https://github.com/your-username) *(не забудьте заменить на ваш ник)*
