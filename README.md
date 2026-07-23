@@ -39,9 +39,9 @@ Unity-разработчик с 2-летним опытом создания и 
 
 ## 🚀 Проекты
 
-- 🎮 **[Эволюция Эпох]([https://github.com/your-username/project1](https://github.com/UserIT203/Evolution))** 
-- 🎮 **[Название проекта 2](https://github.com/your-username/project2)** — Краткое описание (например: Архитектурный пет-проект с использованием Zenject, UniTask и Addressables).
-
+- 🎮 **[Эволюция Эпох](https://github.com/UserIT203/Evolution)** 
+- 🎮 **[Стив Приключение в Подземелье](https://github.com/UserIT203/MinecraftGame)**
+- 🎮 **[Герои Космоса](https://github.com/UserIT203/Yandex_Shooter)** 
 ---
 
 ## 📬 Контакты
@@ -49,5 +49,4 @@ Unity-разработчик с 2-летним опытом создания и 
 Открыт к интересным предложениям о работе в команде и совместным проектам! Свяжитесь со мной:
 
 - 📧 **Email**: [sharipovamir2003@gmail.com](mailto:sharipovamir2003@gmail.com)
-- 📱 **Телефон**: [+7 903 313-38-85](tel:+79033133885)
 - ✈️ **Telegram**: [@sbwtshrek](https://t.me/sbwtshrek)
